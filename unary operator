@@ -1,0 +1,7 @@
+\newglossaryentry{unary operator}
+{
+     name=unary operator,
+     Unary operators return the result of an operation on only one operand. There are six defined in the Java language:
+
+ +    the unary plus operator makes an expression positive. -    the unary negative operator makes an expression negative. ++   the increment operator increments a value by 1. --   the decrement operator decrements a value by 1. !    the logical complement operator inverts a boolean value. ~    the bitwise complement operator inverts the bits of a binary number.
+ }
