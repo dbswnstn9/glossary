@@ -1,1 +1,6 @@
-
+\newglossaryentry{Characters}
+{
+    name=Character,
+    description={Characters is a primitive data type in java.Character is a letter. Java provide a wrapper class 'Character' when we come across the situation when we need an object instead of primitive data type. A character preceded with a backslash is an escape sequence and has special meaning to the compiler.For example, " \n "means to insert a newline in the text at this point.}
+}
+ 
